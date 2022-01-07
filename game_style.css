@@ -1,0 +1,28 @@
+#container2{
+    background:white;
+    width:700px;
+    height:fit-content;
+    border-radius:25px;
+}
+
+h2, h3{
+color:white;
+}
+
+#setanswer{
+    background:darkblue;
+    border-radius:5px;
+    width:150px;
+    color:white;
+}
+
+#answer{
+    background:darkred;
+    color:white;
+}
+#setquestion{
+    background:green;
+    border-radius:5px;
+    width:150px;
+    color:white;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="game_style.css">
+    <script src="game_code.js"></script>
+</head>
+
+<body style="background-color:darkred;">
+    <center>
+        <h2 id = "score1">puntuacion :</h2>
+        <h2 id = "score2">puntuacion :</h2>
+        <h1 class="container" id="container2">
+            <label id="question2">cuanto es: </label>
+            <label id="question"></label>
+            <br>
+            <br>
+            <input id="answer" placeholder = "tu respuesta va aqui">
+            <br>
+            <br>
+            <button id="setanswer" onclick="answer()">comprobar</button>
+        </h1>
+        <p>num 1: </p>
+        <input type = "number" id = "num1" class = "num">
+        <p>num 2: </p>
+        <input type = "number" id = "num2" class = "num">
+        <br>
+        <br>
+        <button id = "setquestion" onclick = "question()">crear</button>
+    </center>
+</body>
+
+</html>

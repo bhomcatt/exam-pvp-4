@@ -1,0 +1,51 @@
+#login {
+    background: white;
+    border-radius: 25px;
+    width: 800px;
+    height: 600px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#player2_name {
+    width: 300px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 4px;
+    color: white;
+    background: darkred;
+    border: darkred;
+}
+
+#player1_name {
+    width: 300px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 4px;
+    color: white;
+    background: darkred;
+    border: darkred;
+}
+
+#titulo {
+    background: darkred;
+    border-radius:25px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+#iniciarSesion{
+    background:rgb(45, 130, 187);
+    border-radius:4px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
